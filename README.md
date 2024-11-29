@@ -25,13 +25,14 @@ Ta-da! The extension has been successfully installed. If no extension icons were
 
 Pin the extension
 
-By default, when you load your extension locally, it will appear in the extensions menu (![Extensions Icon](https://github.com/who-would-know/youtubeplaylistsearch/blob/main/readme-assets/extensions-instructions-1.png?raw=true)). Pin your extension to the toolbar to quickly access your extension during development.
+By default, when you load your extension locally, it will appear in the extensions menu (![Extensions Icon](readme-assets/extensions-instructions-2.png)).
+Pin your extension to the toolbar to quickly access your extension during development.
 
-![Pin Extension Example](https://github.com/who-would-know/youtubeplaylistsearch/blob/main/readme-assets/extensions-instructions-1.png?raw=true)
+![Pin Extension Example](readme-assets/extensions-instructions-3.png)
 
 Click the extension's action icon (toolbar icon); you should see a popup.
 
-![Extension View Example](https://github.com/who-would-know/youtubeplaylistsearch/blob/main/readme-assets/extensions-instructions-1.png?raw=true)
+![Extension View Example](readme-assets/extensions-instructions-4.png)
 
 Requirements
 
