@@ -19,19 +19,19 @@ Load Chrome Extension manually
     2. Enable Developer Mode by clicking the toggle switch next to Developer mode.
     3. Click the Load unpacked button and select the extension directory.
 
-    ![Load Extension Example](https://raw.githubusercontent.com/who-would-know/youtubeplaylistsearch/readme-assets/extensions-instructions-1.png)
+    ![Load Extension Example](https://github.com/who-would-know/youtubeplaylistsearch/readme-assets/extensions-instructions-1.png?raw=true)
 
     Ta-da! The extension has been successfully installed. If no extension icons were included in the manifest, a generic icon will be created for the extension.
 
 Pin the extension
 
-    By default, when you load your extension locally, it will appear in the extensions menu (![Extensions Icon](https://raw.githubusercontent.com/who-would-know/youtubeplaylistsearch/readme-assets/extensions-instructions-2.png)). Pin your extension to the toolbar to quickly access your extension during development.
+    By default, when you load your extension locally, it will appear in the extensions menu (![Extensions Icon](https://github.com/who-would-know/youtubeplaylistsearch/readme-assets/extensions-instructions-2.png?raw=true)). Pin your extension to the toolbar to quickly access your extension during development.
 
-    ![Pin Extension Example](https://raw.githubusercontent.com/who-would-know/youtubeplaylistsearch/readme-assets/extensions-instructions-3.png)
+    ![Pin Extension Example](https://github.com/who-would-know/youtubeplaylistsearch/readme-assets/extensions-instructions-3.png?raw=true)
 
     Click the extension's action icon (toolbar icon); you should see a popup.
 
-    ![Extension View Example](https://raw.githubusercontent.com/who-would-know/youtubeplaylistsearch/readme-assets/extensions-instructions-4.png)
+    ![Extension View Example](https://github.com/who-would-know/youtubeplaylistsearch/readme-assets/extensions-instructions-4.png?raw=true)
 
 Requirements
 
