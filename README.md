@@ -8,10 +8,11 @@ Chrome Extension that will list all your Playlist and allow you to search and so
 
 ## Download YouTube Playlist Search
 
-Options
--Clone Repo
--Click on '<> Code' green Icon top right and Download Zip, extract
--Click on 'Releases' middle right and download Source Code, extract
+Options either
+
+- Clone Repo
+- Click on '<> Code' green Icon top right and Download Zip, extract
+- Click on 'Releases' middle right and download Source Code, extract
 
 ## Load Chrome Extension manually
 
